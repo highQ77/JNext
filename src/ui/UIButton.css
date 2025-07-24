@@ -1,0 +1,31 @@
+.ui-button {
+    display: inline-flex;
+    width: 200px;
+    height: 50px;
+    color: black;
+    background: #888;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.ui-button:hover {
+    background: #333;
+    color: white;
+}
+
+.ui-button2 {
+    display: inline-flex;
+    width: 200px;
+    height: 50px;
+    color: black;
+    background: #deb24d;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.ui-button2:hover {
+    background: #5f4f1e;
+    color: white;
+}
